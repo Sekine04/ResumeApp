@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\bin\Debug\Loginpractice.exe.config
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\bin\Debug\Loginpractice.exe
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\bin\Debug\Loginpractice.pdb
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.Main.resources
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.exe
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.pdb
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.Account.resources
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.Main_CV.resources
+C:\Users\Lenovo\source\repos\Loginpractice\Loginpractice\obj\Debug\Loginpractice.Welcome.resources

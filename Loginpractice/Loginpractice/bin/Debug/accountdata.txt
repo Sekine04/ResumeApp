@@ -1,0 +1,8 @@
+Username:sekine
+First name :
+Last name :
+Date of birth :..
+Phone number :
+E-mail :
+Gender:Male
+Password:sekine2002
